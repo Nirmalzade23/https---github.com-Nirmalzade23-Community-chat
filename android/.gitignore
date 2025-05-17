@@ -1,8 +1,7 @@
 # OSX
 #
 .DS_Store
-/ios
-/Android
+
 # Android/IntelliJ
 #
 build/
